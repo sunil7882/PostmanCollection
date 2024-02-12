@@ -1,0 +1,37 @@
+{
+"Employee Data":[
+	{
+	"Id": 1,
+	"Name": "Sunil Kumar Yadav",
+	"Post": "QA",
+	"Role": "Automation Test Engineer",
+	"Age": 42,
+	"Company Address": "Greater Noida",
+	"Work Mode": "Remote",
+	"Working Days": "5Days",
+	"Working Hour A Day": "8 Hours"
+	},
+	{
+	"Id": 2,	
+	"Name": "Rajesh Kumar Yadav",
+	"Post": "QA",
+	"Role": "Mannual Test Engineer",
+	"Age": 32,
+	"Company Address": "Noida Sec-15",
+	"Work Mode": "Hybrid",
+	"Working Days": "5Days",
+	"Working Hour A Day": "8 Hours"
+	},
+	{
+	"Id": 3,
+	"Name": "Sandeep Kumar Yadav",
+	"Post": "Team Lead",
+	"Role": "Lead to All Test Engineer",
+	"Age": 40,
+	"Company Address": "Noida Sec-62",
+	"Work Mode": "Hybrid",
+	"Working Days": "5Days",
+	"Working Hour A Day": "8 Hours"
+	}
+	]
+}
